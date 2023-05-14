@@ -24,14 +24,18 @@ description: Don't Just Secure It, Validify It!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://validify-us.com # the base hostname & protocol for your site, e.g. http://example.com
 domain: validify-us.com
+username: Validify
+
+typing_text: Don't Just Secure It, Validify It!
 github_username:  Validify-Us
+linkedin_username: /company/validify-technologies
 
 # Build settings
 theme: minima
 remote_theme: https://github.com/Validify-Us/neumorphism-validify
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
+  - jekyll-github-metadata
 
 # Exclude from processing.
 # The following items will not be processed, by default.
