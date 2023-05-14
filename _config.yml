@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://validify-us.com # the base hostname & protocol for your site, e.g. http://example.com
 domain: validify-us.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Validify-Us
 
 # Build settings
 theme: minima
