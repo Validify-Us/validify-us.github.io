@@ -25,10 +25,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://validify-us.com # the base hostname & protocol for your site, e.g. http://example.com
 domain: validify-us.com
 username: Validify
-
-typing_text: Don't Just Secure It, Validify It!
+typing_text: "AI and Web3 for Business Data"
 github_username:  Validify-Us
-linkedin_username: /company/validify-technologies
+linkedin_username: company/validify-technologies
 
 # Build settings
 theme: minima
