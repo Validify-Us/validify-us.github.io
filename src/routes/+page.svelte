@@ -1,4 +1,5 @@
 <script>
+	import Cardlist from '$lib/components/Cardlist.svelte';
 
 import pitch from '$lib/assets/pitch.png'
 import user from '$lib/assets/user.png'
@@ -37,5 +38,9 @@ import stats from '$lib/assets/stats.png'
       <img class="w-[60rem]" src={stats} alt="">
     </div>
 
+  </div>
+
+  <div class="p-8 bg-[#630bde]">
+    <Cardlist/>
   </div>
 </div>
