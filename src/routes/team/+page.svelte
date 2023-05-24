@@ -29,7 +29,7 @@
             <div>
                 <h1 class="font-bold text-6xl">Isabel "Izzy" Fisher</h1>
                 <h2 class="mt-5 font-semibold my-5 text-2xl">Co-Owner , CEO , Platform Design</h2>
-                <p>Izzy has a passion for computer science and new technology. She has over 15 years experience working, studying, and researching in the Computer Science industry. Her specializations include DevOps, Automation, System Integration, Data Analytics, Machine Learning, and Distributed System Design. She designed the Validify Platform (Patent Pending) to help create standardization, security, and transparency of project quality, hiring practices, and data analysis related to project management and workflow for businesses of all sizes.</p>
+                <p class="text-[0.94rem]">Izzy has a passion for computer science and new technology. She has over 15 years experience working, studying, and researching in the Computer Science industry. Her specializations include DevOps, Automation, System Integration, Data Analytics, Machine Learning, and Distributed System Design. She designed the Validify Platform (Patent Pending) to help create standardization, security, and transparency of project quality, hiring practices, and data analysis related to project management and workflow for businesses of all sizes.</p>
             </div>
         </div>
         
@@ -45,9 +45,7 @@
             <div>
                 <h1 class="font-bold text-6xl">Shaked "Shelly" Lantziano</h1>
                 <h2 class="mt-5 font-semibold my-5 text-2xl">Co-Owner , CTO , A.I Engineer , Frontend Developer</h2>
-                <p>Shelly is a passionate individual who brings together their love for programming and technology to drive our team's success. With expertise in front-end development, AI engineering, and a role as the glue that brings everything together, Shelly's contributions are invaluable. Shelly's expertise as an AI Engineer adds automation and personalization to our projects. With a passion for programming and a talent for collaboration, Shelly plays a keen role in shaping our team's achievements.
-                    
-                    Shelly's passion for programming and technology, combined with their role as a front-end development designer, CTO, and AI engineer, drives our team's success. Their ability to bring together diverse talents and ideas creates innovative solutions that exceed expectations in today's digital landscape.</p>
+                <p>Shelly is a passionate individual who brings together their love for programming and technology to drive our team's success. With expertise in front-end development, AI engineering, and a role as the glue that brings everything together, Shelly's contributions are invaluable. Shelly's expertise as an AI Engineer adds automation and personalization to our projects.</p>
             </div>
         </div>
         
