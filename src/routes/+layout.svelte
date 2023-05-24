@@ -1,6 +1,7 @@
 <script>
-    import "../app.css";
-	import Nav from "../lib/components/Nav.svelte";
+  import Footer from '$lib/components/Footer.svelte';
+  import "../app.css";
+	import Nav from "$lib/components/Nav.svelte";
   </script>
   
 
@@ -11,5 +12,8 @@
   <main>
     <slot />
   </main>
- 
+
+<footer>
+  <Footer/>
+</footer>
   
