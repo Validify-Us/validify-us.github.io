@@ -6,8 +6,8 @@
                 <h2 class="font-bold underline">Socials:</h2>
                 <ul class="flex flex-col">
                     <a href="">Twitter</a>
-                    <a href="">Github</a>
-                    <a href="">Linkedin</a>
+                    <a href="https://github.com/Validify-Us" target="_blank">Github</a>
+                    <a href="https://www.linkedin.com/company/validify-technologies/" target="_blank">Linkedin</a>
                 </ul>
             </div>
             <div>
