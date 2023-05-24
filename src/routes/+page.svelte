@@ -4,6 +4,7 @@
 import pitch from '$lib/assets/pitch.png'
 import user from '$lib/assets/user.png'
 import stats from '$lib/assets/stats.png'
+import error from '$lib/assets/error.png'
 </script>
 
 <div>
@@ -20,27 +21,37 @@ import stats from '$lib/assets/stats.png'
 
   <div class="w-[100%] bg-[#630bde] p-8 flex flex-col md:flex-row md:justify-between items-center">
     <div class="p-5 md:p-10">
-      <img class=" w-[100%] md:w-[60rem]" src={user} alt="">
+      <img class=" w-[100%] md:w-[60rem]" src={error} alt="">
     </div>
     <div class="p-8 w-[100%]">
-      <h1 class="text-4xl md:text-[5rem] text-white font-bold capitalize md:mr-8">im scared</h1>
-      <p class="text-white break-before-all md:text-2xl text-[0.8rem] mt-8">idk im really scared about getting anaphalxis again everything i eat scares the living shit out of me</p>
+      <h1 class="text-4xl md:text-[3rem] text-white font-bold capitalize md:mr-8">Validify your Project Quality</h1>
+      <p class="text-white break-before-all md:text-2xl text-[0.8rem] mt-8">Our expert trained AI models will analyze your test and quality metrics to generate customized reports to help identify possible risks and assure quality of your project updates, maintenance, and releases.</p>
     </div>
 
   </div>
   <div class="w-[100%] p-8 flex flex-col md:flex-row md:justify-between items-center">
 
     <div class="p-10">
-      <h1 class="text-4xl md:text-[5rem] font-bold capitalize md:mr-8">im scared</h1>
-      <p class="break-before-all md:text-2xl text-[0.8rem] mt-8">idk im really scared about getting anaphalxis again everything i eat scares the living shit out of me</p>
+      <h1 class="text-4xl md:text-[3rem] font-bold capitalize md:mr-8">Validify your Business Metrics</h1>
+      <p class="break-before-all md:text-2xl text-[0.8rem] mt-8">Our AI models will learn your company's patterns and analyze your business metrics to identify opportunities for project workflow and process optimization.</p>
     </div>
     <div class="p-10">
       <img class="w-[60rem]" src={stats} alt="">
     </div>
+  </div>
+  
+  <div class="w-[100%] p-8 flex flex-col md:flex-row md:justify-between items-center bg-[#630bde] text-white">
+    <div class="p-10">
+      <img class="w-[60rem]" src={user} alt="">
+    </div>
+    <div class="p-10">
+      <h1 class="text-4xl md:text-[3rem] font-bold capitalize md:mr-8">Validify your Workforce</h1>
+      <p class="break-before-all md:text-2xl text-[0.8rem] mt-8">Monitor and manage employee projects and skillsets. This data can even be obtained to verify skill and work experience of potential new employees who have completed work for other Validify customers.</p>
+    </div>
 
   </div>
 
-  <div class="p-8 bg-[#630bde] w-[100%]">
+  <div class="p-8  w-[100%]">
     <Cardlist/>
   </div>
 </div>
