@@ -9,7 +9,7 @@ import error from '$lib/assets/error.png'
 
 <div>
   <div class=" md:p-[15rem] p-8 mt-10 flex items-center justify-center flex-col">
-    <h1 class="md:text-[7rem] md:text-center md:text-7xl text-5xl text-center font-bold  text-[#630bde] capitalize break-words ">dont just secure it <span class="font-black text-[#35007a] hover:text-8xl hover:cursor-crosshair duration-300 ease-in-out hover:font-black hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-r hover:from-[#6a00f5] hover:to-[#00f5d4]">validify </span>it!</h1>
+    <h1 class="md:text-[7rem] md:text-center md:text-7xl text-5xl text-center font-bold  text-[#630bde] capitalize break-words ">dont just secure it <span class="font-black text-[#35007a] hover:text-[7.1rem] hover:cursor-crosshair duration-300 ease-in-out hover:font-black hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-r hover:from-[#6a00f5] hover:to-[#00f5d4]">validify </span>it!</h1>
     <p class="mt-[5rem] md:text-2xl text-[1.2rem] capitalize text-center">our blockchain sloution will ensure maximum security for all of your buissness affairs</p>
     <div class="md:p-10 py-5">
       <div class="md:border md:border-[30px] md:rounded-[9rem] md:border-[#9e73d9]">
