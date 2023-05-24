@@ -29,7 +29,7 @@
             <div>
                 <h1 class="font-bold text-6xl">Isabel "Izzy" Fisher</h1>
                 <h2 class="mt-5 font-semibold my-5 text-2xl">Co-Owner , CEO , Platform Design</h2>
-                <p class="text-[0.94rem]">Izzy has a passion for computer science and new technology. She has over 15 years experience working, studying, and researching in the Computer Science industry. Her specializations include DevOps, Automation, System Integration, Data Analytics, Machine Learning, and Distributed System Design. She designed the Validify Platform (Patent Pending) to help create standardization, security, and transparency of project quality, hiring practices, and data analysis related to project management and workflow for businesses of all sizes.</p>
+                <p class="text-[0.94rem]">Izzy has a passion for computer science and new technology, She has over 15 years experience working, studying, and researching in the Computer Science industry. Her specializations include DevOps, Automation, System Integration, Data Analytics, Machine Learning, and Distributed System Design. She designed the Validify Platform (Patent Pending) to help create standardization, security, and transparency of project quality, hiring practices, and data analysis related to project management and workflow for businesses of all sizes.</p>
             </div>
         </div>
         
