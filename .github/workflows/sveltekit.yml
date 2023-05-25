@@ -31,11 +31,11 @@ jobs:
           cache: 'npm'
       - run: npm install
       - run: npm run build
-      - run: ls -al
+      #- run: npm test
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: build
+          name: github-pages
 
   deploy:
     runs-on: ubuntu-latest
