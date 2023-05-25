@@ -12,7 +12,7 @@
             <div>
                 <h2 class="font-bold underline">Company:</h2>
                 <ul class="flex flex-col">
-                    <a href="/about">About</a>
+                    <a href="/">About</a>
                     <a href="mailto:contact@validify-us.com">Contact</a>
                     <a href="/team">Team</a>
                 </ul>
