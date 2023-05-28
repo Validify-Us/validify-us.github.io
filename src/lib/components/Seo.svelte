@@ -1,6 +1,7 @@
 
 <svelte:head>
     <!-- OPEN GRAPH META DATA -->
+    <meta name="keywords" content="Validify, validify , validify technologies inc, ai , technology , tech , devops , blockchain, validify blockchain , blockchain security">
     <meta property="og:url" content="https://validify-us.com">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Validify">
@@ -25,7 +26,7 @@
     <!-- OTHER META DATA -->
     <meta name="theme-color" content="#7e2ff5">
     <meta name="mobile-web-app-capable" content="yes">
-    <meta name="keywords" content="Validify, validify , validify technologies inc, ai , technology , tech , devops , blockchain, validify blockchain , blockchain security">
+
     
 
 </svelte:head>
