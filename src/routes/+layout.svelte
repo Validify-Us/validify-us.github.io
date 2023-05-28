@@ -2,6 +2,7 @@
   import Footer from '$lib/components/Footer.svelte';
   import "../app.css";
 	import Nav from "$lib/components/Nav.svelte";
+	import Seo from '$lib/components/Seo.svelte';
   </script>
   
 
@@ -16,4 +17,4 @@
 <footer>
   <Footer/>
 </footer>
-  
+<Seo/>

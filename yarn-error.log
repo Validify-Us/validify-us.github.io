@@ -1,0 +1,63 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\shell\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add -D svelte-seo
+
+PATH: 
+  C:\Program Files\Oculus\Support\oculus-runtime;C:\Ruby32-x64\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\shell\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\shell\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shell\AppData\Local\Programs\Python\Python310\;C:\Users\shell\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\shell\AppData\Local\Programs\Python\Python311\;C:\Users\shell\AppData\Local\Microsoft\WindowsApps;C:\Users\shell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shell\AppData\Roaming\npm;C:\Users\shell\.dotnet\tools;C:\Users\shell\AppData\Local\GitHubDesktop\bin;C:\Users\shell\AppData\Roaming\nvm;C:\Program Files\nodejs
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\shell\Documents\GitHub\validify-us.github.io\node_modules\@esbuild\win32-x64\esbuild.exe'
+
+npm manifest: 
+  {
+  	"name": "validify-us.github.io",
+  	"version": "0.0.1",
+  	"private": true,
+  	"scripts": {
+  		"dev": "vite dev",
+  		"build": "vite build",
+  		"preview": "vite preview",
+  		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+  		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+  		"lint": "prettier --plugin-search-dir . --check . && eslint .",
+  		"format": "prettier --plugin-search-dir . --write ."
+  	},
+  	"engines": {
+  	        "node":">=16.0.0",
+  		"npm":"<=9.0.0"
+  	},
+  	"devDependencies": {
+  		"@sveltejs/adapter-auto": "^2.0.0",
+  		"@sveltejs/kit": "^1.5.0",
+  		"@typescript-eslint/eslint-plugin": "^5.45.0",
+  		"@typescript-eslint/parser": "^5.45.0",
+  		"autoprefixer": "^10.4.14",
+  		"eslint": "^8.28.0",
+  		"eslint-config-prettier": "^8.5.0",
+  		"eslint-plugin-svelte": "^2.26.0",
+  		"postcss": "^8.4.23",
+  		"prettier": "^2.8.0",
+  		"prettier-plugin-svelte": "^2.8.1",
+  		"svelte": "^3.54.0",
+  		"svelte-check": "^3.0.1",
+  		"tailwindcss": "^3.3.2",
+  		"tslib": "^2.4.1",
+  		"typescript": "^5.0.0",
+  		"vite": "^4.3.0"
+  	},
+  	"type": "module"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
