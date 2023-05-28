@@ -22,4 +22,9 @@
     <meta name="twitter:creator" content="@Validify_us">
     <meta name="twitter:creator:id" content="Validify_us">
 
+    <!-- OTHER META DATA -->
+    <meta name="theme-color" content="#7e2ff5">
+    <meta name="mobile-web-app-capable" content="yes">
+    
+
 </svelte:head>
