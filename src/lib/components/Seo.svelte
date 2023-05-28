@@ -25,6 +25,7 @@
     <!-- OTHER META DATA -->
     <meta name="theme-color" content="#7e2ff5">
     <meta name="mobile-web-app-capable" content="yes">
+    <meta name="keywords" content="Validify, validify , validify technologies inc, ai , technology , tech , devops , blockchain, validify blockchain , blockchain security">
     
 
 </svelte:head>
